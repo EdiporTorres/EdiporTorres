@@ -1,5 +1,8 @@
 <img src="https://hermes.dio.me/assets/articles/c9d739e1-5300-43c6-8911-c6d71e88064a.png" alt="Banner"/>
 
+
+
+
 # Olá, Eu sou Édipo Torres! 👋
 
 Sou um profissional em transição de carreira para Programação, com 5 anos de experiência em gestão educacional. Atualmente, estou cursando o Bootcamp FullStack Java da Generation e concluí o Santander Bootcamp 2023 - Fullstack Java+Angular. Tenho sólido conhecimento em gestão de atividades escolares e assistência educacional, com habilidades transferíveis para a área de desenvolvimento de software, como resolução de problemas, comunicação eficaz e trabalho em equipe. Busco uma oportunidade como desenvolvedor para aplicar meus conhecimentos em Java e Angular, e contribuir para projetos inovadores.
@@ -21,7 +24,7 @@ Sou um profissional em transição de carreira para Programação, com 5 anos de
 <!-- Adicione aqui outras ferramentas que você utiliza -->
 
 ## 📊 Estatísticas do GitHub
-
+![snake animation](https://github.com/EdiporTorres/EdiporTorres/blob/output/github-contribution-grid-snake2.svg)
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/EdiporTorres">
     <img src="https://github-readme-stats.vercel.app/api?username=EdiporTorres&show_icons=true&theme=radical" alt="Edipo Torres GitHub stats"/>
