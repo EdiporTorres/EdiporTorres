@@ -24,7 +24,7 @@ Sou um profissional em transição de carreira para Programação, com 5 anos de
 <!-- Adicione aqui outras ferramentas que você utiliza -->
 
 ## 📊 Estatísticas do GitHub
-(https://raw.githubusercontent.com/EdiporTorres/EdiporTorres/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/EdiporTorres">
     <img src="https://github-readme-stats.vercel.app/api?username=EdiporTorres&show_icons=true&theme=radical" alt="Edipo Torres GitHub stats"/>
